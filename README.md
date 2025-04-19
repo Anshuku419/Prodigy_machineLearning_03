@@ -1,4 +1,3 @@
-# Prodigy_machineLearning_03
 Image classification of dogs and cats by implementing SVM
 # Overview
 The code aims to implement a Support Vector Machine (SVM) for classifying images of cats and dogs from a Kaggle dataset. The classification is based on Histogram of Oriented Gradients (HOG) features extracted from preprocessed grayscale images. The SVM model is trained and evaluated, and a prediction is demonstrated on a sample image.
